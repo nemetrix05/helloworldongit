@@ -1,0 +1,45 @@
+CURSOS PARA DESCARGAR MEAN
+
+/////////// MONGO DB //////////// 
+
+https://www.video2brain.com/mx/cursos/bases-de-datos-nosql-mongodb
+
+/////////// ANGULAR JS //////////// 
+
+
+1. AngularJS. De 0 a 100
+https://www.video2brain.com/mx/cursos/angularjs-de-0-a-100
+
+
+2. Ejemplos prácticos con AngularJS
+https://www.video2brain.com/mx/cursos/ejemplos-practicos-con-angularjs
+
+3. Ejemplos prácticos con AngularJS
+https://www.video2brain.com/mx/cursos/ejemplos-practicos-con-angularjs
+
+4. AngularJS avanzado
+https://www.video2brain.com/mx/cursos/angularjs-avanzado
+
+
+/////////// NODE JS //////////// 
+
+1. https://www.video2brain.com/mx/cursos/node-js
+
+2. https://www.video2brain.com/mx/cursos/creacion-de-un-sitio-web-con-node-js
+
+
+
+/////////// GENERAL ///////////////
+
+https://www.video2brain.com/mx/cursos/ejemplo-practico-de-web-app-con-angularjs-nodejs-y-mongodb
+
+https://www.video2brain.com/mx/cursos/ejemplo-practico-con-html5-agenda
+
+
+
+/////////// APP 2017 ///////////////
+
+http://transformacionbolivar.com/login
+
+
+https://es.wikipedia.org/wiki/MEAN
